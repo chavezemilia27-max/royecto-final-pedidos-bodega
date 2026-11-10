@@ -1,0 +1,6 @@
+Archivos para GitHub:
+- README.md (incluye System Prompt íntegro, ROI y referencias a capturas)
+- workflow_bodega_demo_PUBLICABLE.json (requiere conectar credenciales y planilla propia)
+- capturas/ (5 imágenes de evidencia)
+
+Subir los archivos descomprimidos al repositorio privado. Revisar que las imágenes no exhiban datos personales antes de hacerlo público.
